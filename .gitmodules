@@ -1,3 +1,6 @@
 [submodule "module-b"]
 	path = module-b
 	url = https://github.com/olaknowct/module-b.git
+[submodule "apps/mfe/mfe-core"]
+	path = apps/mfe/mfe-core
+	url = https://github.com/olaknowct/module-c1.git
